@@ -22,6 +22,10 @@ body {
     min-height: 100vh;
 }
 
+.big-box .side_bar .active:hover {
+    background-color: #5C5C5C;
+}
+
 .side_bar {
     position: relative;
     background: #191718;
